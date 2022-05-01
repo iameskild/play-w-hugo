@@ -1,4 +1,4 @@
 baseURL = 'https://iameskild.github.io/play-w-hugo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Play w hugo'
 theme = "ananke"
